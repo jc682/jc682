@@ -8,7 +8,7 @@
 jc682/jc682 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-nc= int(input(“ingrese número de la cita”))
+--->nc= int(input(“ingrese número de la cita”))
 If nc > 0:
            If nc >= 1 and nc <=3
                        vc= 200 tt= nc*vc
